@@ -4,7 +4,7 @@ This repository contains the implementation of **FREGEX**, a **F**eature extract
 
 Usage: 
 ```
-python main.py <FILENAME> <MIN> <MAX> <RESULTS> <PL> <AL> <SSL> <CLASSIFIERS>
+python main.py <FILENAME> <MIN> <MAX> <RESULTS> <PL> <AL> <SSL> <LIST-OF-CLASSIFIERS>
 ```
 
 Example:
