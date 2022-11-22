@@ -9,5 +9,5 @@ python main.py <FILENAME> <MIN> <MAX> <RESULTS> <PL> <AL> <SSL> <LIST-OF-CLASSIF
 
 Example:
 ```
-python main.py OBESIDAD 0 5 True False True False rf-nb-svm
+python main.py OBESIDAD 0 5 True False False False rf-nb-svm
 ```
